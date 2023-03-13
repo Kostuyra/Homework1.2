@@ -69,7 +69,7 @@ public class Main {
 
 		amountWorkers += 94;
 		allWorkHours = oneWorkerHours * amountWorkers;
-		System.out.println("Если в компании работает " + amountWorkers + " человек, то всего " +
+		System.out.println(" Если в компании работает " + amountWorkers + " человек, то всего " +
 				 allWorkHours + " часов работы может быть поделено между сотрудниками");
 	}
 
